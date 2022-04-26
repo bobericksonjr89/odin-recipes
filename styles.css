@@ -1,0 +1,28 @@
+body {
+  background-color: #eff2e6;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.main-header {
+  font-size: 48px;
+}
+
+.header {
+  color: #53cfda;
+  font-family: verdana, sans-serif;
+}
+
+.links {
+  font-size: 32px;
+  list-style: none;
+}
+
+a {
+  color: #ff7994;
+}
+
+p,
+li {
+  font-size: 24px;
+}
